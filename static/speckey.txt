@@ -1,0 +1,5 @@
+spec1,specid
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c),559292
+Schizosaccharomyces pombe (strain 972 / ATCC 24843),284812
+Homo sapiens,9606
+Mus musculus,10090
